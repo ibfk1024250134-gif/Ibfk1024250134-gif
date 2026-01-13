@@ -1,7 +1,7 @@
 # ⚽ Perfil de Joantja
 
 ### 👤 Información Personal
-- **Nombre:** Joantja
+- **Nombre:** Alexis
 - **Edad:** 12 años
 - **Escuela:** Instituto Bilingüe Frida Kahlo
 - **Pasión:** El Fútbol
